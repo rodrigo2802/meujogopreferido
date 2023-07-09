@@ -1,0 +1,22 @@
+                <ul class="logo">
+                    <li>
+                        <a href="#" title="Mais sobre gta san andreas" >
+                            <img src="./midia3/Grand_Theft_Auto_San_Andreas_logo.svg.png" alt="logo do gta san andreas" />
+                        </a></li>
+                        <a href="#" title="Mais sobre Bully" >
+                            <li>
+                                <img src="./midia3/Bully-Logo-Transparent-Image.png" alt="logo do jogo bully" />
+                        </a></li>
+                        <li> 
+                            <a href="#" title="Mais sobre gta 5" > <img src="./midia3/png-transparent-grand-theft-auto-v-grand-theft-auto-san-andreas-grand-theft-auto-iv-xbox-360-grand-theft-auto-online-others-emblem-logo-video-game-removebg-preview.png" alt="foto da logo gta5" />
+                        </a></li>
+                    <li><a href="#" title="Mais sobre red dead redemption 2">
+                        <img src="./midia3/61-614237_shirrako-on-twitter-red-dead-redemption-2-logo-removebg-preview.png" alt="foto da logo do red dead 2" />
+                    </a></li>
+                    <li><a href="#" title="Mais sobre Midnight club 3" >
+                        <img src="./midia3/midnight-club-3-dub-edition-logo.png" alt="foto da logo midnight club 3"/>
+                    </a></li>
+                    <li><a href="#" title="Mais sobre Max payne">
+                        <img src="./midia3/Max-Payne-Logo-PNG-Photo.png" alt="foto da logo do max payne"/>
+                    </a></li>
+                </ul>

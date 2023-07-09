@@ -1,0 +1,212 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: maroon;
+    color: aliceblue;
+    font-size: 20px;
+    padding: -8px;
+    font-family: 'Bungee', cursive;
+    font-weight: normal;
+}
+
+header nav li {
+    display: inline;
+}
+
+.container {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container,
+section .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav li a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.fotoprincipal img {
+    height: 400px;
+    margin-right: 60px;
+    margin-bottom: 12px;
+}
+
+.logo img {
+    height: 45px;
+}
+
+.logo li {
+    display: inline;
+    margin-left: 18px;
+    text-decoration: none;
+}
+
+section .container {
+    align-items: flex-start;
+}
+
+section h2 {
+    margin-bottom: 2px;
+    font-size: 22px;
+    color: #fff;
+}
+
+section p {
+    margin-bottom: 16px;
+    font-size: 20px;
+    color: rgb(240, 225, 206)
+}
+
+section {
+    padding: 26px 0;
+}
+
+section h2,
+section h3 {
+    font-family: 'Bungee', cursive;
+    font-size: 32px;
+    font-weight: normal;
+}
+
+section {
+    background-color: rgb(105, 12, 12);
+}
+
+.logos img {
+    height: 30px;
+}
+
+#contact .container {
+    display: block;
+    margin-bottom: 200px;
+}
+
+.metodos {
+    display: flex;
+    justify-content: space-between;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 300px;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+form textarea {
+    resize: none;
+    height: 180px;
+}
+
+.logos li {
+    display: inline;
+}
+
+.logos li a {
+    text-decoration: none;
+}
+
+section h3 {
+    font-size: 20px;
+    margin-bottom: 16px
+}
+
+form button {
+    color: #fff;
+    background-color: maroon;
+    border: none;
+    font-family: 'Bungee', cursive;
+}
+
+form button:hover {
+    background-color: rgb(247, 0, 0);
+    cursor: pointer;
+}
+input ,textarea,
+footer,
+section h4 {
+    font-family: 'Bungee', cursive;
+    font-weight: normal;
+}
+
+#contact h2 {
+    font-size: 25px;
+}
+
+input:focus ,textarea:focus {
+    outline-color: rgb(247, 0, 0);;
+}
+
+footer {
+    background-color: rgb(88, 13, 13);
+    color: #fff;
+    padding: 10px 0;
+}
+
+.logos li {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.metodos p {
+    font-family: 'Bungee', cursive;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.logo li a {
+    text-decoration: none;
+}
+
+#paragrafo {
+    margin-top: 50px;
+}
+
+section h4 {
+    font-size: 25px;
+    margin-bottom: 5px;
+    color: rgb(240, 240, 240);
+}
+
+#mais {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: normal;  
+}
+
+.jogos img {
+    height: 60px;
+}
+
+.jogos li {
+    display: inline;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 35px;
+    margin-top: 6px;
+}
+
+.jogos li a {
+    text-decoration: none;
+}
+
+#franquia {
+    font-size: 30px;
+}
+
+
+
